@@ -1,0 +1,14 @@
+/* .float{
+    background-color: black;
+} */
+.img{
+    background-color:rgb(243, 243, 243);
+    position: absolute;
+    border-style:ridge;
+    border-radius:1%;
+    width: 40%;
+    top:2%;
+    height:95%;
+    left: 30%;
+    right:30%;
+}

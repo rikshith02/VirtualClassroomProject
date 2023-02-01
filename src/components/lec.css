@@ -1,0 +1,44 @@
+.l{
+    background-color:rgb(243, 243, 243);
+    position: absolute;
+    border-style:ridge;
+    border-radius:1%;
+    width: 70%;
+    top:20%;
+    height:25%;
+    left:15%;
+    right:15%;
+}
+.limg{
+    background-color:rgb(243, 243, 243);
+    position: absolute;
+    left:3%;
+    top:10%;
+    width: 12%;
+}
+.lword{
+    position: absolute;
+    left:18%;
+    top:25%;
+
+}
+.lbutton {
+    position:absolute;
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+    background-color: #4CAF50 ;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    top:70%;
+    right:3%;
+  }
+  
+  .lbutton:hover {background-color: #3e8e41}
+  
+  .lbutton:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
